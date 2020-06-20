@@ -1,1 +1,2 @@
-# High_current_battery_bench
+# High current battery bench
+This aims to be a brief explenation of the work that I have done during inside the Formula SAE team E-agle T.R.T. The goal of this project was to develep a system which can test Li-Ion battery modules in order to derive battery parameters such as: internal resistance or thermal capacity. The easiest way was to develop a controlled discharge circuit which can acquire cells temperature and battery voltages. These data can be later used to fit electrical and thermal models.
